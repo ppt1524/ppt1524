@@ -14,6 +14,6 @@ I'm a third-year undergraduate student at IIIT Hyderabad, studying Computer Scie
 
 - 🛠 I'm always trying to learn something new!
 - ⚡ I enjoy Competitive Programming and have a strong understanding of Data Structures and Algorithms.
-- - 🌱 I have experience with full-stack web development in JavaScript and Python.
+- 🌱 I have experience with full-stack web development in JavaScript and Python.
 - 💬 Ask me about anything, I'll try to help!
 - 📫 How to reach me: pratham.thakkar@students.iiit.ac.in
